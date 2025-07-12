@@ -14,7 +14,7 @@ cd frontend
 npm run dev
 
 ```
-# for backend
+# backend
 ```js
 cd backend 
 npm dev
